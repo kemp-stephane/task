@@ -14,7 +14,7 @@ Many people around the world prefer to shop online and buy products from differe
 With the help of the new technology of the internet, my project helps people from all around the world to be able purchase items online by simply sitting in their homes or offices. Purchasing items online is a very easy task to do. It plays a very important role in our lives especially elderly people, disabled people as well as people with a busy life. It provides a very comfortable service for the user, by being able to save the item in the personal shopping cart, and buy it later on.
 
 ## Installing my project locally
-navigate to the main page of the repository. then click Code. Click Open with GitHub Desktop to clone and open the repository with GitHub Desktop. Follow the prompts in GitHub Desktop to complete the clone.
+navigate to the main page of the repository. then click Code. Open my website.html. Follow the prompts in GitHub Desktop to complete the clone.
 
 ## how my website works 
 ### Adding items to cart 
@@ -31,6 +31,5 @@ navigate to the main page of the repository. then click Code. Click Open with Gi
 
 ### Confirming the order
 ![Screenshot 2022-09-29 at 08 33 48](https://user-images.githubusercontent.com/114095693/192956779-aba81a55-80f3-425d-b692-2aa203805eb6.png)
-
 
 ##
